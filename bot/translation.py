@@ -6,13 +6,14 @@ class Translation(object):
     
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
 
-<b>I am a Pro AutoFilterBot V2....😜</b>
+<b>I am bot created for @trollanumonusee</b>
 
-<b>Make me an admin for your group and channel then connect me....🎉</b>
+<b>Group don't work for your group 😊.🎉</b>
 
-<b>🙂Watch the video below to build an Pro Autofilter bot V2 like me...</b>
-
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
+<b>എന്താ അന്റെ ഉദ്ധെസം!?
+ഞാൻ കുറച്ചു മുൻപേ പറഞ്ഞതല്ല എന്നെ നിങ്ങൾക്ക് ഉപയോഗിക്കാൻ പറ്റില്ല എന്ന്..,😂
+പിന്നെ എന്തിനാ ഇവിടെ കിടന്ന് ചൊറിയാൻ നികുന്നത് 😃
+NB : നിങ്ങൾക്കും ഇതുപോലെ ഒരു Bot വേണമെങ്കിൽ എന്റെ മൊയലാളി യെ ബന്ധപ്പെടുക...😊</b>
 
 <b>Press /help to know about available commands🤪</b>"""    
     
@@ -46,14 +47,14 @@ class Translation(object):
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
             
-<b><a href="https://t.me/Mo_Tech_YT">© Mo Tech YT</a></b>
+<b><a href="https://t.me/raees6">© Raees6</a></b>
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
 <b>>➥👨‍💼Master</b> : <b><a href="https://t.me/AlbertEinstein_TG">👤Albert Einstein</a></b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/MRk_YT">👤Mrk YT</a></b>
+<b>➥ 👨‍💻Editor</b> : <b><a href="https://raees6">👤Raees</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
