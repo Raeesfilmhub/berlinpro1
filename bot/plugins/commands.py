@@ -122,7 +122,7 @@ async def start(bot, update):
         InlineKeyboardButton('👨‍💼Creater', url=f'https://t.me/raees6'),
         InlineKeyboardButton('Help 🤔', callback_data="help")
     ],[
-        InlineKeyboardButton('🗣️Group', url='https://t.me/trollanumonusee<'),
+        InlineKeyboardButton('🗣️Group', url='https://t.me/trollanumonusee'),
         InlineKeyboardButton('Channel🔊', url='https://t.me/trollanumonusee1')
     ]]
     
