@@ -1,21 +1,19 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG @MRK_YT
+# (c) @AlbertEinsteinTG @raees6
 
 class Translation(object):
     
-    START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
+    START_TEXT = """<b>🙋‍♂️Hey❤️ {}!!</b>
 
 <b>I am bot created for @trollanumonusee</b>
 
 <b>Group don't work for your group 😊.🎉</b>
 
-<b>എന്താ അന്റെ ഉദ്ധെസം!?
+<b>എന്താ അന്റെ ഉദ്ധെസം😄!?
 ഞാൻ കുറച്ചു മുൻപേ പറഞ്ഞതല്ല എന്നെ നിങ്ങൾക്ക് ഉപയോഗിക്കാൻ പറ്റില്ല എന്ന്..,😂
 പിന്നെ എന്തിനാ ഇവിടെ കിടന്ന് ചൊറിയാൻ നികുന്നത് 😃
-NB : നിങ്ങൾക്കും ഇതുപോലെ ഒരു Bot വേണമെങ്കിൽ എന്റെ മൊയലാളി യെ ബന്ധപ്പെടുക...😊</b>
-
-<b>Press /help to know about available commands🤪</b>"""    
+NB : നിങ്ങൾക്കും ഇതുപോലെ ഒരു Bot വേണമെങ്കിൽ എന്റെ മൊയലാളി യെ ബന്ധപ്പെടുക...😊</b>"""    
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
@@ -47,18 +45,18 @@ NB : നിങ്ങൾക്കും ഇതുപോലെ ഒരു Bot വ�
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
             
-<b><a href="https://t.me/raees6">© Raees6</a></b>
+<b><a href="https://t.me/raees6">© Raees</a></b>
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
 <b>>➥👨‍💼Master</b> : <b><a href="https://t.me/AlbertEinstein_TG">👤Albert Einstein</a></b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://raees6">👤Raees</a></b>
+<b>➥ 👨‍💻Developer</b> : <b><a href="https://t.me/raees6">👤Raees</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://github.com/Raeesfilmhub/berlinpro1">💥Click Me</a></b>
 """
